@@ -81,3 +81,10 @@ https://www.youtube.com/watch?v=CLNZCp-8Ckc
 Representative Player: Russell Westbrook
 
 https://www.youtube.com/watch?v=ivU_aj-51XQ
+
+
+### Reference
+
+dataset
+
+- https://www.kaggle.com/wyattowalsh/basketball
